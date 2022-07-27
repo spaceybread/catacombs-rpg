@@ -1,6 +1,8 @@
 # catacombs-rpg
 rogue-like, turn-based RPG
 
+The game is catacombs.py, NOT dungeonFight.py
+
 The game follows turn-based combat that uses a speed stat to decide which side goes first; currently this is randomly assigned however, in later builds, I intend to add a stat-point system to allow for more customisation
 
 Speed ties cannot exist, enemy's speed stat is never a whole number while the player's is, thus ensuring a greater/lower than test can take place correctly
