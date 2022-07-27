@@ -36,5 +36,5 @@ Stat Modification moves:
 > Rage increases attack boost by 1.5 (linearly)
 
 
-The game assigns the player with 400 health each run and the moment the health equals or goes below, the run is over. With each enemey defeated, opponent health increases by 20. Stat changes are not carried between fights. Try to beat as many enemies as possible! 
+The game assigns the player with 500 health each run and the moment the health equals or goes below, the run is over. With each enemey defeated, opponent health increases by 20. Stat changes are not carried between fights. Try to beat as many enemies as possible! 
 GLHF!
