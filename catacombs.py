@@ -61,7 +61,7 @@ def move(isEnemy):
         type = 0
 
     if move == 3:
-        print('{} used rage'.format(user))
+        print('{} used rage!'.format(user))
         effect = rage()
         modifier = 1.5
         type = 2
@@ -91,6 +91,7 @@ def move(isEnemy):
 
 playerHealth = 500
 enemiesDefeated = 0
+playerSpeed = random.randrange(5)
 
 while True:
 
@@ -101,7 +102,6 @@ while True:
 
     enemyHealth = 100 + (20 * enemiesDefeated)
 
-    playerSpeed = random.randrange(5)
     enemySpeed = random.randrange(5) - 0.5
 
     print('Your speed stat: {}'.format(playerSpeed))
