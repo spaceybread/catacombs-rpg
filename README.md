@@ -14,12 +14,15 @@ The number in the bracket corresponds to the number you must type if you want to
 Moves can be divided into three types: Outgoing, Incoming, and Stat Modification
 
 > Outgoing type moves alter enemy health - Cleave, Ruleta
+
 > Incoming type moves alter user health - Eschew
+
 > Stat Modification moves alter damage scalars - Rage
 
 
 Outgoing type moves:
 > Cleave does flat 20 damage
+
 > Ruleta does between 15 and 25 damage
 
 
