@@ -51,7 +51,7 @@ def move(isEnemy):
     if move == 1:
         print('{} used eschew!'.format(user))
         effect = eschew()
-        modifier = -0.4
+        modifier = -0.6
         type = 1
 
     if move == 2:
