@@ -14,27 +14,21 @@ The number in the bracket corresponds to the number you must type if you want to
 Moves can be divided into three types: Outgoing, Incoming, and Stat Modification
 
 > Outgoing type moves alter enemy health - Cleave, Ruleta
-
 > Incoming type moves alter user health - Eschew
-
 > Stat Modification moves alter damage scalars - Rage
 
 
 Outgoing type moves:
-
-Cleave does flat 20 damage
-
-Ruleta does between 15 and 25 damage
+> Cleave does flat 20 damage
+> Ruleta does between 15 and 25 damage
 
 
 Incoming type moves: 
-
-Eschew results in healing between 25 and 28
+> Eschew results in healing between 25 and 28
 
 
 Stat Modification moves:
-
-Rage increases attack boost by 1.5 (linearly)
+> Rage increases attack boost by 1.5 (linearly)
 
 
 The game assigns the player with 400 health each run and the moment the health equals or goes below, the run is over. With each enemey defeated, opponent health increases by 20. Stat changes are not carried between fights. Try to beat as many enemies as possible! 
