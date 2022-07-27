@@ -5,7 +5,7 @@ The game follows turn-based combat that uses a speed stat to decide which side g
 
 Speed ties cannot exist, enemy's speed stat is never a whole number while the player's is, thus ensuring a greater/lower than test can take place correctly
 
-Currently the game has 4 moves: Cleave (0), Eschew (1), Ruleta (2), Rage (3)
+Currently the game has 4 moves: Cleave (0), Eschew (1), Ruleta (2), Rage (3) \n
 The number in the bracket corresponds to the number you must type if you want to use the move
 
 Moves can be divided into three types: Outgoing, Incoming, and Stat Modification
